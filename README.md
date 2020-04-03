@@ -1,4 +1,4 @@
-# 2019_AMHG
+# Brinkerhoff-et-al-GRL-2019
 
 <b><h3>Description</h3></b>
 <br>
